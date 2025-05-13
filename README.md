@@ -3,8 +3,7 @@
   <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="https://drive.google.com/file/d/1VC42XMGOU1j4oVzM1GQUbOzQxul967qw/view?usp=sharing">
-  <img alt="Salomo Hendrian LinkedIn" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Resume-blue?style=for-the-badge
-"/></a>
+  <img alt="Salomo Hendrian LinkedIn" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Resume-blue"/></a>
   
 ---
 
