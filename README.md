@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+I build code by starting from the business problem. My process begins with understanding the core challenge, then brainstorming the best tools and approaches to solve it effectively. Whether it's automation, data pipelines, or AI solutions, I focus on creating code that delivers real business value.
+</p>
+
+<p align="center">
   <a href="https://drive.google.com/file/d/1VC42XMGOU1j4oVzM1GQUbOzQxul967qw/view?usp=sharing">
     <img alt="Salomo Hendrian Resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Resume-palegreen?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/salomohendriansudjono/">
