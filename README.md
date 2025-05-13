@@ -1,12 +1,9 @@
 <p align="center">
   <h1>Salomo Hendrian Sudjono</h1> 
-
   <a href="https://drive.google.com/file/d/1VC42XMGOU1j4oVzM1GQUbOzQxul967qw/view?usp=sharing">
     <img alt="Salomo Hendrian Resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Resume-palegreen?style=for-the-badge&logoColor=white"/></a>
-    
   <a href="https://www.linkedin.com/in/salomohendriansudjono/">
     <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
   <img alt="Salomo Hendrian Email" title="My Email" src="https://custom-icon-badges.demolab.com/badge/-isalomohendriyan@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
 </p>
 
