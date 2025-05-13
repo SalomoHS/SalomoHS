@@ -13,7 +13,8 @@
 <a href="https://www.linkedin.com/in/salomohendriansudjono/">
   <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <br>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff" />
+
 
 #### Frameworks and Libraries
 #### Cloud
