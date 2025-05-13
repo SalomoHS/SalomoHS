@@ -1,10 +1,18 @@
 # 🧑 Salomo Hendrian Sudjono
 <a href="https://www.linkedin.com/in/salomohendriansudjono/">
   <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/salomohendriansudjono/">
+  <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
   
 ---
 
 ### Tech Stacks
+#### Porgramming Languages
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### Frameworks and Libraries
+#### Cloud
+
 <div>
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
