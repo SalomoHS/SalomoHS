@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/salomohendriansudjono/">
   <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/salomohendriansudjono/">
-  <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1VC42XMGOU1j4oVzM1GQUbOzQxul967qw/view?usp=sharing">
+  <img alt="Salomo Hendrian LinkedIn" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-F25278?style=for-the-badge"/></a>
   
 ---
 
@@ -41,6 +41,8 @@
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
+
+---
 
 ### Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
