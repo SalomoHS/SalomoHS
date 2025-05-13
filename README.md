@@ -2,7 +2,7 @@
   <h1 align="center">Salomo Hendrian Sudjono</h1>
 </p>
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<p align="center"><strong><code>Tech Developer</code></strong></p>
 
 <p align="center">
 I build code by starting from the business problem. My process begins with understanding the core challenge, then brainstorming the best tools and approaches to solve it effectively. Whether it's automation, data pipelines, or AI solutions, I focus on creating code that delivers real business value.
