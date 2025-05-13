@@ -32,7 +32,7 @@ I build code by starting from the business problem. My process begins with under
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  
+  <a href="https://github.com/SalomoHS/News-Scraping"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=News-Scraping&theme=dracula" alt="News-Scraping"></a>
   <a href="https://github.com/SalomoHS/Customer-Flagging-Pipeline"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Customer-Flagging-Pipeline&theme=dracula" alt="Customer-Flagging-Pipeline"></a>
   <a href="https://github.com/SalomoHS/Live-Meeting-Translation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Live-Meeting-Translation&theme=dracula" alt="Live-Meeting-Translation"></a>
 </p>
