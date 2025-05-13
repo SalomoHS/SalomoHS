@@ -1,8 +1,7 @@
 ## 🧑 Salomo Hendrian Sudjono
 
 ---
-<summary><h2>📘 My Top Open Source Projects</h2></summary>
-
+## Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
