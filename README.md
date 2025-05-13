@@ -9,7 +9,9 @@
 
 ### Tech Stacks
 #### Porgramming Languages
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
 #### Frameworks and Libraries
 #### Cloud
 
