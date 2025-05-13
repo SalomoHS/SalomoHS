@@ -6,12 +6,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/SalomoHS/Bullying-Detection-WebApp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Bullying-Detection-WebApp" alt="readme-typing-svg"></a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/"><img width="278" src="" alt="custom-icon-badges"></a>
-<a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="" alt="github-readme-youtube-cards"></a>
-<a href="https://github.com/"><img width="278" src="" alt="unedit-for-reddit"></a>
+<a href="https://github.com/SalomoHS/Bullying-Detection-WebApp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Bullying-Detection-WebApp&theme=dracula" alt="Bullying-Detection-WebApp"></a>
 </p>
 
 <!--
