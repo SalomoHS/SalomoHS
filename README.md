@@ -1,5 +1,8 @@
 ## 🧑 Salomo Hendrian Sudjono
-
+<h1>Salomo Hendrian Sudjono</h1>
+---
+<a href="https://www.linkedin.com/in/salomohendriansudjono/">
+  <img alt="Salomo Hendrian LinkedIn" title="View my LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ---
 ## Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
