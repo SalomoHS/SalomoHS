@@ -1,4 +1,5 @@
 <p align="center">
+  <h1 align="center">Salomo Hendrian Sudjono</h3>
   <a href="https://drive.google.com/file/d/1VC42XMGOU1j4oVzM1GQUbOzQxul967qw/view?usp=sharing">
     <img alt="Salomo Hendrian Resume" title="View my Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Resume-palegreen?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/salomohendriansudjono/">
