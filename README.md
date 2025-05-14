@@ -29,25 +29,9 @@ I build code by starting from the business problem. My process begins with under
 ---
 
 ### Projects
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/SalomoHS/News-Scraping"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=News-Scraping&theme=dracula" alt="News-Scraping"></a>
   <a href="https://github.com/SalomoHS/Customer-Flagging-Pipeline"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Customer-Flagging-Pipeline&theme=dracula" alt="Customer-Flagging-Pipeline"></a>
   <a href="https://github.com/SalomoHS/Live-Meeting-Translation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Live-Meeting-Translation&theme=dracula" alt="Live-Meeting-Translation"></a>
+  <a href="https://github.com/SalomoHS/Newslake"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Newslake&theme=dracula" alt="Newslake"></a>
 </p>
-
-<!--
-**SalomoHS/SalomoHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
