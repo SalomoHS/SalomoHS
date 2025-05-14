@@ -28,7 +28,7 @@ I build code by starting from the business problem. My process begins with under
 
 ---
 
-### Projects
+### Top Projects
 <p align="left">
   <a href="https://github.com/SalomoHS/News-Scraping"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=News-Scraping&theme=dracula" alt="News-Scraping"></a>
   <a href="https://github.com/SalomoHS/Customer-Flagging-Pipeline"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Customer-Flagging-Pipeline&theme=dracula" alt="Customer-Flagging-Pipeline"></a>
