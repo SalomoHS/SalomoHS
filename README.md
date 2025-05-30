@@ -34,5 +34,6 @@ I build code by starting from the business problem. My process begins with under
   <a href="https://github.com/SalomoHS/Customer-Flagging-Pipeline"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Customer-Flagging-Pipeline&theme=dracula" alt="Customer-Flagging-Pipeline"></a>
   <a href="https://github.com/SalomoHS/Live-Meeting-Translation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Live-Meeting-Translation&theme=dracula" alt="Live-Meeting-Translation"></a>
   <a href="https://github.com/SalomoHS/Newslake"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Newslake&theme=dracula" alt="Newslake"></a>
-  <a href="https://github.com/SalomoHS/Physical-Bullying-Classification"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Physical-Bullying-Classification&theme=dracula" alt="Physical-Bullying-Classification"></a>
+  <a href="https://github.com/SalomoHS/Physical-Bullying-Classification"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Physical-Bullying-Classification&theme=dracula" alt="Physical-Bullying-Classification"></a> 
+  <a href="https://github.com/SalomoHS/Mekari-Data-Entry-Automation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=salomohs&repo=Mekari-Data-Entry-Automation&theme=dracula" alt="Mekari-Data-Entry-Automation"></a>
 </p>
